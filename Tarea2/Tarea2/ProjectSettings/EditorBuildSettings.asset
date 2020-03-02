@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ac485e382727c3e41a7fdf507506de3b
+  - enabled: 1
+    path: Assets/Scenes/BusquedaAnchura.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BusquedaProfundidad.unity
+    guid: 2c57fb8ddb394ec4990e7fc76e8690be
+  - enabled: 1
+    path: Assets/Scenes/BusquedaProfundidadLimitada.unity
+    guid: c26b6e814de048f4ea9f01c1ce8a8e7a
+  - enabled: 1
+    path: Assets/Scenes/BusquedaIterativaProfundidad.unity
+    guid: c6d4d4b7253a9134c8369475b05de9c3
+  - enabled: 1
+    path: Assets/Scenes/BusquedaBidireccional.unity
+    guid: 12e8b7a32d6fb79498ec8f59684bcfa2
+  - enabled: 1
+    path: Assets/Scenes/EvitandoEstados.unity
+    guid: 00dbe48fde802ed4f92cf5af01bf35ca
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 5e64d35dbb2408844b3b4616017e1fd3
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: c771519b6c9fad74a8c99c3779790a94
+  m_configObjects: {}
